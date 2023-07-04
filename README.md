@@ -37,7 +37,7 @@
 ## ```HOW TO INSTALL```
 
 # Cyclic App
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://app.cyclic.sh/#/join/zeeoneofficial)
+[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://github.com/akoofice/my-rest-api/tree/master)
 
 [`Click Here For Tutorial`](https://youtu.be/FqgjPDqWsF0)
 
