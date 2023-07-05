@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'AkoOffice'// yourname
-global.MONGO_DB_URI = "mongodb://atlas-sql-64a4a9d541a76c4034ee6de6-i460v.a.query.mongodb.net/myVirtualDatabase?ssl=true&authSource=admin" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://akojelish:293848afn@cluster0.brucfuu.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "akoyourname82@gmail.com" //email
 global.email_password = "ltkmcxcdwrdkiqoj" //application password email
