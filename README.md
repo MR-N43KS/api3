@@ -55,7 +55,7 @@
 </p>
 
 # Replit App
-[![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/Alphabot-Md)](https://replit.com)
+[![Run on Repl.it](https://repl.it/badge/github/akoofice/my-rest-api)](https://replit.com)
 
 [`Click Here For Tutorial`](https://youtu.be/FqgjPDqWsF0)
 
